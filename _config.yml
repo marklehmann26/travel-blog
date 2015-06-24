@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Travel Blog
+email: marklehmann26@gmail.com
+description: Fun Blog about traveling.
+baseurl: "/travel-blog"
+twitter_username: mlamarr
+avatar: "https://pbs.twimg.com/profile_images/553352464444194816/Q0GFLymF.jpeg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Mark Lehmann" # Set default author name
+      categories: "places"
       layout: "post"
       comments: true
   -
